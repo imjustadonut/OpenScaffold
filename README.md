@@ -1,3 +1,6 @@
+![standard (1)](https://github.com/user-attachments/assets/8d1645d1-59d9-4d3a-9dc8-0ff2aed49d1d)
+
+
 # OpenScaffold
 OpenScaffold is an open-source scaffold creator for codes and organizing codespaces. Made in python for simplest functionality.
 

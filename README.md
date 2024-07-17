@@ -23,18 +23,6 @@ C:\OpenScaffold> python main.py
 > We try to use as little files as we can. Make sure to pick the EXACT directory you want the project to be in when you setup through the command line.
 > With only 3 files, one of which is README.md, this will barely any resources.
 
-## To Use (WITH AUTO-SETUP SCRIPT)
-> Download Python 3.11 (OR LATER)
-> Simply download the auto-setup file from the ScaffoldScripts folder.
-> Use the keybind `WIN + R`, paste the command `powershell`
-> Once your in powershell, type the following:
-```bash
-PS C:\> mkdir OpenScaffold
-PS C:\> cd OpenScaffold
-PS C:\OpenScaffold> git clone "https://github.com/imjustadonut/OpenScaffold/main" ./
-```
-And thats quite literally it! The rest is done for you, by us.
-
 Note: If you're using Mac or Linux, simply run the same commands, just using your native terminal rather than `Windows Powershell`!
 
 ## License

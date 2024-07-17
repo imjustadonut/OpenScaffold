@@ -1,10 +1,27 @@
 # OpenScaffold
 OpenScaffold is an open-source scaffold creator for codes and organizing codespaces. Made in python for simplest functionality.
 
-**Auto-Setup**
-> We have included a free quick-start file that is a click-and-go. It will install all required functionallities for OpenScaffold to work!
-> Please ensure you install Python 3.11 (OR LATER) before using the auto-setup script. Python is the one requirement that we cannot setup for you!
-> More at [Python's Website](https://www.python.org/downloads/).
+## Supported Versions
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+
+| Version | Supported          |
+| ------- | ------------------ | 
+| 1.0.0   | :white_check_mark: |
+
+**Easy-Setup**
+> All you have to do to setup is run four commands!
+```bash
+C:\> git clone https://github.com/imjustadonut/OpenScaffold.git
+C:\> cd OpenScaffold
+C:\OpenScaffold> python -m pip install -r requirements.txt
+C:\OpenScaffold> python main.py
+```
+
+**Process Friendly**
+> We try to use as little files as we can. Make sure to pick the EXACT directory you want the project to be in when you setup through the command line.
+> With only 3 files, one of which is README.md, this will barely any resources.
 
 ## To Use (WITH AUTO-SETUP SCRIPT)
 > Download Python 3.11 (OR LATER)
